@@ -1,0 +1,8 @@
+MAIN_PATH = "/content/drive/My Drive/H-DenseUNet"
+DATA_PATH = MAIN_PATH + "/data"
+RAW_TRAINING_DATA = DATA_PATH + "/TrainingData"
+RAW_TESTING_DATA = DATA_PATH + "/TestingData"
+PROCESSED_TRAINING_DATA = DATA_PATH + "/ProcessedTrainingData"
+PROCESSED_TESTING_DATA = DATA_PATH + "/ProcessedTestingData"
+LIVER_VOXEL_DATA = DATA_PATH + "/LiverVoxelData"
+LIVER_BOX_DATA = DATA_PATH + "/LiverBoxData"
